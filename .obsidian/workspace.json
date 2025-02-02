@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "40b2e85eeb300b36",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bdecf810e8b206e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4973b9b2ed57b505",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "60213981dd2c86a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📖 Государства Волхварии/📖 Государства Волхварии.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "📖 Государства Волхварии"
+            }
+          },
+          {
+            "id": "ba5bfafd17526f43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled/Untitled 1/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "612f73a9ce1492f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled/Untitled 1/Untitled 3/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9225f7a6c0070e34",
+    "type": "split",
+    "children": [
+      {
+        "id": "07efd0808b4584ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96926b60fc2fba9b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "cdce291c6ddba462",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7d98686d2bcfe947",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "da5d187045ce23d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e05df24c1e9b504",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21a54050d5293778",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "0aba62bfdbabfb91",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "4371dcef4b0e1c0f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c3e7d9fb7e2b0cae",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "60213981dd2c86a9",
+  "lastOpenFiles": [
+    "📖 Государства Волхварии/Без названия",
+    "📕 Иконки/📕 Иконки.md",
+    "📖 Государства Волхварии/Без названия.md",
+    "📖 Государства Волхварии/📖 Государства Волхварии.md",
+    "Untitled 2/📖7898789.md",
+    "Pasted image 20250202140216.png",
+    "Pasted image 20250202140300.png",
+    "Государство Волхварии/Мореславия.md",
+    "Государство Волхварии/Untitled 1 1.md",
+    "Untitled/Untitled 1/Untitled 3/Untitled.md",
+    "Untitled/Untitled 1/Untitled 2.md",
+    "Untitled/Untitled 1/Untitled.md",
+    "Untitled.canvas",
+    "📕 Иконки",
+    "Untitled/Untitled 1/Untitled 3",
+    "Untitled 2",
+    "📖 Государства Волхварии",
+    "Untitled/Untitled 1",
+    "Государство Волхварии"
+  ]
+}
