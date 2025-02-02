@@ -8,3 +8,6 @@ https://obsidian.md/
 
 установить и включить плагины
 * folder notes
+
+Лицензия
+* CC BY-NC
